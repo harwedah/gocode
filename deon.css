@@ -1,0 +1,56 @@
+
+body {
+    background-color: cornsilk;
+}
+
+.all {
+    text-align: center;
+    margin-top: 5%;
+    width: 700px;
+    margin-left: 23%;
+    cursor: crosshair;        }
+
+h1 {
+    font-size: 50px;
+}
+
+h1 span {
+    color: orange;
+}
+
+input {
+    height: 80px;
+    width: 700px;
+    border-radius: 50px;
+    border: none;
+}
+
+.in {
+    width: 100%;
+    text-align: center;
+    cursor: grab;
+}
+
+.in input {
+    background-color: white;
+    font-size: 17px;
+    padding: 5px;
+    cursor: grabbing;
+}
+
+.sign {
+    color: white;
+    background-color: orange;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.text {
+    text-align: right;
+}
+
+.top {
+    font-size: 20px;
+    text-align: center;
+}
+a{color: orange;}
